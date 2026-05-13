@@ -41,7 +41,5 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 
-  <h2 align="center">📊 GitHub Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=muvahhid-001" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muvahhid-001&show_icons=true&theme=tokyonight" />
 
