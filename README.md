@@ -13,7 +13,7 @@
 
 🚀 Обо мне
 
-<p align="center">
+<p>
 ⚡ Создаю современные frontend-приложения<br/>
 🎯 Использую React + TypeScript + FSD<br/>
 🔥 Люблю минималистичный dark UI<br/>
