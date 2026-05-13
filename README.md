@@ -6,28 +6,20 @@
 
 </div>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=Frontend+React+Developer;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=20000&color=808080&center=true&vCenter=true&width=600&lines=Frontend+React+Developer;"/>
 
 
 </div>
 
-<div align="center">
+<h2 align="center">🚀 Обо мне</h2>
 
-🚀 Обо мне
-
-</div>
-
-<br/>
-
-<div align="center">
-
-⚡ Создаю современные frontend-приложения  
-🎯 Использую React + TypeScript + FSD  
-🔥 Люблю минималистичный dark UI  
-🧠 Изучаю сложные анимации и оптимизацию  
-📚 Интересуюсь физикой, UX/UI и архитектурой приложений  
-
-</div>
+<p align="center">
+⚡ Создаю современные frontend-приложения<br/>
+🎯 Использую React + TypeScript + FSD<br/>
+🔥 Люблю минималистичный dark UI<br/>
+🧠 Изучаю сложные анимации и оптимизацию<br/>
+📚 Интересуюсь физикой, UX/UI и архитектурой приложений
+</p>
 
 <br/>
 
