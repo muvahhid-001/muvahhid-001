@@ -6,23 +6,14 @@
 
 </div>
 
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="70"/>Frontend React Developer | TypeScript Developer<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="70"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=Frontend+React+Developer;TypeScript+Enthusiast;Clean+Architecture+Lover;GSAP+%2B+Modern+UI" />
 
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Обо мне
 
 </div>
 
 <div align="center">
 
-## 🚀 Обо мне
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=Frontend+React+Developer;TypeScript+Enthusiast;Clean+Architecture+Lover;GSAP+%2B+Modern+UI" />
+🚀 Обо мне
 
 </div>
 
@@ -40,13 +31,6 @@
 
 <br/>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,redux,scss,vite,webpack,git,github,figma,vscode" />
-
-</div>
-
----
 
 <div align="center">
 
