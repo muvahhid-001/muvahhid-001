@@ -1,3 +1,24 @@
-<div id="header" align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzg3MDYzNjgsIm5iZiI6MTc3ODcwNjA2OCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTEzVDIxMDEwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ4MDE2NTM0MWNjOGQyMjJjOTZlZjgyOGNlODBiZDE4ODk2Njc1YWIwZjRjYjczYTU2MWU0NTJiZTY5MTczOWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.bRcgnqQWZ56oJ-llkhxWa-czH9tXgVqHkqFFABYpX0w" widt="768"/>
+<div align="center">
+
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="120"/>
+
+# Привет, я Зелимхан 👨‍💻
+
+### Frontend React Developer | TypeScript Developer
+
+<img src="https://komarev.com/ghpvc/?username=ВАШ_USERNAME&style=for-the-badge&color=grey" />
+
 </div>
+
+---
+
+## 🚀 Обо мне
+
+```ts
+const zelimhankhan = {
+  направление: "Frontend Development",
+  стек: ["React", "TypeScript", "SCSS", "GSAP", "Swiper"],
+  архитектура: ["FSD"],
+  изучаю: ["Продвинутый React", "Анимации", "Оптимизацию"],
+  интересы: ["Физика", "UI/UX", "Современный веб"],
+};
