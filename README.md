@@ -36,7 +36,6 @@
 </div>
 
 <br/>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=20000&color=808080&center=true&vCenter=true&width=600&lines=ТЕХНОЛОГИИ+И+ИНСТРУМЕНТЫ;" />
 </div>
