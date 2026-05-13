@@ -6,7 +6,7 @@
 
 </div>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=Frontend+React+Developer;TypeScript+Enthusiast;Clean+Architecture+Lover;GSAP+%2B+Modern+UI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=Frontend+React+Developer;"/>
 
 
 </div>
