@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=10000&color=808080&center=true&vCenter=true&&lines=ОБО+МНЕ;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=20000&color=808080&center=true&vCenter=true&&lines=ОБО+МНЕ;"/>
 </div>
 
 <div align="left">
@@ -26,7 +26,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=10000&color=808080&center=true&vCenter=true&lines=ТЕХНОЛОГИИ+И+ИНСТРУМЕНТЫ;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=20000&color=808080&center=true&vCenter=true&lines=ТЕХНОЛОГИИ+И+ИНСТРУМЕНТЫ;"/>
 </div>
 
 <div align="center">
