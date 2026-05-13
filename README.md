@@ -7,11 +7,10 @@
 </div>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=20000&color=808080&center=true&vCenter=true&width=600&lines=Frontend+React+Developer;"/>
-
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 </div>
 
-<h2 align="center">🚀 Обо мне</h2>
+<h3 align="center">🚀 Обо мне</h3>
 
 <p>
 - Создаю современные frontend-приложения<br/>
@@ -21,8 +20,8 @@
 - Интересуюсь физикой, UX/UI и архитектурой приложений
 </p>
 
-
-<h2 align="center">🛠️ Технологии и инструменты</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+<h3 align="center">🛠️ Технологии и инструменты</h3>
 
 <div align="center">
 
@@ -36,3 +35,8 @@
 <img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzg3MDczMTQsIm5iZiI6MTc3ODcwNzAxNCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTEzVDIxMTY1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRjZjdlNzdhMWY1MGQwMjgxYWZhYTQwNWYzNGY3ZTY2ODFhNjc1YmU4NDA4MjBkNjY3NTY2NjBjNWY4MDQxOTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.rv55781jUkbKLsTRvvCQ-13HNp5bG-4q1PQ3Eq2ADRg" width="80"/>
 
 </div>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
