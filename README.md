@@ -18,15 +18,33 @@
 
 </div>
 
-```ts
-const zahar = {
-  направление: "Frontend Development",
-  стек: ["React", "TypeScript", "SCSS", "GSAP", "Swiper"],
-  архитектура: ["FSD", "Atomic Design"],
-  изучаю: ["Продвинутый React", "Анимации", "Оптимизацию"],
-  интересы: ["Физика", "UI/UX", "Современный веб"],
-};
-```
+<div align="center">
+
+## 🚀 Обо мне
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=Frontend+React+Developer;TypeScript+Enthusiast;Clean+Architecture+Lover;GSAP+%2B+Modern+UI" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+⚡ Создаю современные frontend-приложения  
+🎯 Использую React + TypeScript + FSD  
+🔥 Люблю минималистичный dark UI  
+🧠 Изучаю сложные анимации и оптимизацию  
+📚 Интересуюсь физикой, UX/UI и архитектурой приложений  
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,redux,scss,vite,webpack,git,github,figma,vscode" />
+
+</div>
 
 ---
 
