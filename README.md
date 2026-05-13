@@ -43,7 +43,7 @@
 
 </br>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,scss,vite,git,figma" width="400"/>
+<img src="https://skillicons.dev/icons?i=ts,scss,vite,git,figma" width="300"/>
 </div>
 
 </div>
