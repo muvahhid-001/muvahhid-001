@@ -35,6 +35,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+</br>
 <img src="https://skillicons.dev/icons?i=ts,scss,vite,git,figma,eslint,prettier" />
 
 </div>
@@ -52,21 +53,22 @@
 
 <p align="center">
 
-  <a href="https://instagram.com/tauhid.zelim">
-    <img src="https://img.shields.io/badge/Instagram-tauhid.zelim-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/tauhid.zelim">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
   <a href="https://t.me/nartKurt">
-    <img src="https://img.shields.io/badge/Telegram-nartKurt-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 
   <a href="https://github.com/muvahhid-001">
-    <img src="https://img.shields.io/badge/GitHub-muvahhid--001-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://wa.me/79881230100">
-    <img src="https://img.shields.io/badge/WhatsApp-+7%20988%20123--01--00-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+
 
 </p>
 
