@@ -10,7 +10,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 </div>
 
-<h3 align="center">🚀 Обо мне</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=2500&color=A855F7&center=true&vCenter=true&width=600&lines=Обо+мне;" />
 
 <p>
 - Создаю современные frontend-приложения<br/>
