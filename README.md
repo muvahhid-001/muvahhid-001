@@ -39,7 +39,8 @@
 </div>
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muvahhid-001&theme=dark" />
+</p>
 
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muvahhid-001&show_icons=true&theme=tokyonight" />
 
