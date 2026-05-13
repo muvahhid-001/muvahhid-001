@@ -9,7 +9,7 @@
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
-  <br/><br/>
+  <br/>
 </div>
 
 <div align="center">
@@ -49,7 +49,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
 
-  <br/><br/>
+  <br/>
 
   <img src="https://skillicons.dev/icons?i=ts,scss,vite,git,figma" width="250"/>
 </div>
