@@ -51,3 +51,14 @@
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muvahhid-001" />
 </p>
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=muvahhid-001&show_icons=true&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muvahhid-001&layout=compact&theme=tokyonight" />
+
+</p>
