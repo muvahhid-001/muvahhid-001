@@ -12,6 +12,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=20000&color=808080&center=true&vCenter=true&&lines=ОБО+МНЕ;"/>
 </div>
+</br>
 
 <div align="left">
 <p>
@@ -28,6 +29,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=20000&color=808080&center=true&vCenter=true&lines=ТЕХНОЛОГИИ+И+ИНСТРУМЕНТЫ;"/>
 </div>
+</br>
 
 <div align="center">
 
@@ -36,9 +38,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
 </br>
+
 </br>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,scss,vite,git,figma,eslint,prettier" width="30"/>
+<img src="https://skillicons.dev/icons?i=ts,scss,vite,git,figma,eslint,prettier" width="150"/>
 </div>
 
 </div>
@@ -46,6 +49,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
   
   <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=20000&color=808080&center=true&vCenter=true&width=600&lines=ГРАФИК+АКТИВНОСТИ;"/></div>
+  </br>
   <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muvahhid-001&theme=dark" />
 </p>
@@ -53,6 +57,7 @@
   <p align="center">
 
   <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=20000&color=808080&center=true&vCenter=true&width=600&lines=КОНТАКТЫ;"/></div>
+  </br>
 
 <p align="center">
 
