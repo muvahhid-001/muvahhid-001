@@ -21,11 +21,11 @@
 <div align="left">
 <p>
     - Создаю современные frontend-приложения<br/>
-    &nbsp;- Использую React + TypeScript + FSD + Много чего еще<br/>
-    &nbsp;&nbsp;- Занимаюсь любимым делом уже более 4 лет<br/>
-    &nbsp;&nbsp;&nbsp;- Изучаю сложные анимации и оптимизацию<br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Интересуюсь физикой, UX/UI и архитектурой приложений<br/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Также развиваюсь в сторону React Native
+    &nbsp;&nbsp;- Использую React + TypeScript + FSD + Много чего еще<br/>
+    &nbsp;&nbsp;&nbsp;- Занимаюсь любимым делом уже более 4 лет<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;- Изучаю сложные анимации и оптимизацию<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Интересуюсь физикой, UX/UI и архитектурой приложений<br/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Также развиваюсь в сторону React Native
 </p>
 </div>
 
