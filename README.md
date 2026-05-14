@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=20000&color=808080&center=true&vCenter=true&width=600&lines=Frontend+React+Developer;" />
 
   <div id="header">
-    <img src="" width="768" />
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="768" />
   </div>
 
   <br/>
